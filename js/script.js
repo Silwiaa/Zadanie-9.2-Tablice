@@ -1,4 +1,4 @@
-var femaleNames = ['Ania', 'Kasia', 'Ola', 'Jola'],
+var femaleNames = ['Ania', 'Kasia', 'Ola', 'Jola', 'Karolina'],
     maleNames = ['Tomek', 'Olek', 'Romek', 'Sławek', 'Franek'],
     allNames = femaleNames.concat(maleNames);
 
